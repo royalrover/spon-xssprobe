@@ -1,0 +1,15 @@
+{
+  "name": "spon-xssprobe",
+  "version": "0.0.1",
+  "description": "XSS探针",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@git.showjoy.net:yuxiu/spon-xssprobe.git"
+  },
+  "keywords": [
+    "XSS"
+  ],
+  "author": "yuxiu",
+  "license": "ISC"
+}
